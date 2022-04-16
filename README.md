@@ -1,11 +1,11 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-**- 1 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**
+- 1 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 _Vehicle_weight, spoiler, and AWS_ provide a non-random amount of variance. The random variance was shown in _ground_clearance and vehicle_length_.
-**- 2 - Is the slope of the linear model considered to be zero? Why or why not?**
+- 2 - Is the slope of the linear model considered to be zero? Why or why not?
 The p-value is 5.35e-11. Anything less than zero implies there is a slope. Therefore, the slope is not equal to zero. 
-**- 3 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
+- 3 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The R-Squared values will help us identify the level of certainty. We see the value of the Multiple R-squared is 0.7149. We will convert this into a percentage to find a 71.49% chance our prediction will be accurate for this linear regression model. 
 
 ![Deliverable 1-Linear Regression](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/01-Linear%20Regression%20to%20Predict%20MPG.JPG)
