@@ -11,9 +11,7 @@ The R-Squared values will help us identify the level of certainty. We see the va
 ![Deliverable 1-Linear Regression](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/01-Linear%20Regression%20to%20Predict%20MPG.JPG)
 
 ## Summary Statistics on Suspension Coils
-write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
-
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+Our summaries from total_summary and lot_summary dataframes address variance in suspension coils. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Although we see the total_summary variance beyond our tolerance, 2 of our 3 current lots manufacturing data meet this design specification. Lots 1 & 2 are within tolerance with variances of under 10. But our lot 3 exceeded the 100 allowable with a total of 170 in variance. The overall values would have failed this set and closer analysis brings the attention to Lot 3. 
 
 ![Deliverable 2-Total Summary Table](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/02-Total%20Summary%20Table.JPG)
 
@@ -21,9 +19,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+Our t-tests sh
 
+![Deliverable 3-T-Tests on ALL Suspension Coils](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/03-T-Tests%20on%20Suspension%20Coils.JPG)
 ![Deliverable 3-T-Tests on Suspension Coils](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/03-T-Tests%20on%20Suspension%20Coils.JPG)
-
 
 ## Study Design: MechaCar vs Competition
 
