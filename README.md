@@ -19,7 +19,7 @@ Our summaries from total_summary and lot_summary dataframes address variance in 
 
 ## T-Tests on Suspension Coils
 then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
-Our t-tests sh
+Our t-tests show our lots may be out of tolerance. The standard p-value alllowable is 0.05 and our lot summary shows p-value = 0.06028. When we look more closely at the lots individually, Lot 1 = 1 and Lot 2 = 0.6072. But Lot 3 appears to be statistically different with 0.04168. There is likely a set of challenges and issues with Lot 3s production quality tolerance. 
 
 ![Deliverable 3-T-Tests on ALL Suspension Coils](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/03-T-Tests%20on%20ALL%20Suspension%20Coils.JPG)
 ![Deliverable 3-T-Tests on Suspension Coils](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/03-T-Tests%20on%20Suspension%20Coils.JPG)
