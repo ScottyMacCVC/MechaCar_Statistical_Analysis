@@ -33,3 +33,5 @@ In your description, address the following questions:
 - 2 - What is the null hypothesis or alternative hypothesis?
 - 3 - What statistical test would you use to test the hypothesis? And why?
 - 4 - What data is needed to run the statistical test?
+
+Our statistical analysis is designed to target the interests of consumers. A few examples would be cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. The car buying process is an emotional journey, but showing our consumer specific data may persuade and provide a competitive edge toward MechaCar. We will need a understandable metrics and one of the most influential is fuel efficiency. The data collected can be used to compare our values to our competitors and we will use the p-value standard of 0.05 variance tolerance to measure our vehicles against competition. If our information has statistically interesting data, we will want to utilize the information to either sell or improve our vehicles. We will want to make sure our averages are above the other performers. 
