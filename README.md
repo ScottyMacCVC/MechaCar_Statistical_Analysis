@@ -18,20 +18,11 @@ Our summaries from total_summary and lot_summary dataframes address variance in 
 ![Deliverable 2-Summary Statistics on Suspension Coils](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/02-Summary%20Statistics%20on%20Suspension%20Coils.JPG)
 
 ## T-Tests on Suspension Coils
-then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 Our t-tests show our lots may be out of tolerance. The standard p-value alllowable is 0.05 and our lot summary shows p-value = 0.06028. When we look more closely at the lots individually, Lot 1 = 1 and Lot 2 = 0.6072. But Lot 3 appears to be statistically different with 0.04168. There is likely a set of challenges and issues with Lot 3s production quality tolerance. 
 
 ![Deliverable 3-T-Tests on ALL Suspension Coils](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/03-T-Tests%20on%20ALL%20Suspension%20Coils.JPG)
 ![Deliverable 3-T-Tests on Suspension Coils](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/03-T-Tests%20on%20Suspension%20Coils.JPG)
 
 ## Study Design: MechaCar vs Competition
-
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-
-In your description, address the following questions:
-- 1 - What metric or metrics are you going to test?
-- 2 - What is the null hypothesis or alternative hypothesis?
-- 3 - What statistical test would you use to test the hypothesis? And why?
-- 4 - What data is needed to run the statistical test?
 
 Our statistical analysis is designed to target the interests of consumers. A few examples would be cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. The car buying process is an emotional journey, but showing our consumer specific data may persuade and provide a competitive edge toward MechaCar. We will need a understandable metrics and one of the most influential is fuel efficiency. The data collected can be used to compare our values to our competitors and we will use the p-value standard of 0.05 variance tolerance to measure our vehicles against competition. If our information has statistically interesting data, we will want to utilize the information to either sell or improve our vehicles. We will want to make sure our averages are above the other performers. 
