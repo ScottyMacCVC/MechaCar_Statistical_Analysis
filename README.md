@@ -21,7 +21,7 @@ Our summaries from total_summary and lot_summary dataframes address variance in 
 then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 Our t-tests sh
 
-![Deliverable 3-T-Tests on ALL Suspension Coils](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/03-T-Tests%20on%20Suspension%20Coils.JPG)
+![Deliverable 3-T-Tests on ALL Suspension Coils](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/03-T-Tests%20on%20ALL%20Suspension%20Coils.JPG)
 ![Deliverable 3-T-Tests on Suspension Coils](https://github.com/ScottyMacCVC/MechaCar_Statistical_Analysis/blob/main/Images/03-T-Tests%20on%20Suspension%20Coils.JPG)
 
 ## Study Design: MechaCar vs Competition
